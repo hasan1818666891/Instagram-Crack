@@ -19,7 +19,7 @@ $ cd Instagram-Crack
 
 $ ls
 
-$ python instagram.py
+$ python Instagram.py 
 
 
 
@@ -36,3 +36,6 @@ $ python instagram.py
 
 # RESULTS
 ![Screenshot_2022-05-11-20-21-18-33_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/102127928/170192858-64e3ebe7-60fd-4b5f-84a0-dc1d71ff28ff.jpg)
+
+
+# DON'T FORGET TO GIVE STARS 🌟
